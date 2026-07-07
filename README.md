@@ -63,7 +63,7 @@ cd INDIANA-RESTAURANT-
 **Indiana Veg Restaurant and Cake Boutique**
 - **Rating**: 4.7/5 (7,446+ reviews)
 - **Address**: Plot No. 2, Jalna Road, Next to New High Court, N-3, CIDCO, Aurangabad, Maharashtra 431009
-- **Phone**: +91 75071 49501
+- **Phone**: +91 83902 25915
 - **Hours**: 8:00 AM - 11:00 PM (Daily)
 - **Distance from Railway Station**: 1.1 km
 
@@ -177,7 +177,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 ## 📧 Support
 
 For support, contact:
-- **Phone**: +91 75071 49501
+- **Phone**: +91 83902 25915
 - **Google Maps**: [View Location](https://maps.app.goo.gl/fY7fwojmMDinFKe8A)
 
 ## 🎉 Credits

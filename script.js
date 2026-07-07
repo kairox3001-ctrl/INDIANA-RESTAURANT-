@@ -74,7 +74,7 @@ if (contactForm) {
             // Create WhatsApp message
             const whatsappMessage = `Hello, I'm ${name}. Email: ${email}, Phone: ${phone}. Message: ${message}`;
             const encodedMessage = encodeURIComponent(whatsappMessage);
-            const whatsappLink = `https://wa.me/917507149501?text=${encodedMessage}`;
+            const whatsappLink = `https://wa.me/918390225915?text=${encodedMessage}`;
             
             // Open WhatsApp
             window.open(whatsappLink, '_blank');
